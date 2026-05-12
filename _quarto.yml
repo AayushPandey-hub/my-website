@@ -3,13 +3,14 @@ project:
 
 website:
   title: "Aayush Pandey"
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: files/resume.pdf
+      - href: resume.qmd
         text: Resume
-      - href: files/cover-letter.pdf
+      - href: cover-letter.qmd
         text: Cover Letter
       - href: sample-analysis.qmd
         text: Sample Analysis

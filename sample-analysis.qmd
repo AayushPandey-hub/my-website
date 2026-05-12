@@ -1,0 +1,11 @@
+---
+title: "Sample Analysis: NBA Win Prediction"
+---
+
+# NBA Win Prediction Using Machine Learning
+
+This project builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.
+
+## Full Notebook
+
+[Open Full NBA Sample Analysis](sample_analysis_nba_final.ipynb)
