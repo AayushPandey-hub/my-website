@@ -9,23 +9,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "Aayush Pandey",
     "section": "",
-    "text": "Code\nactova— title: “Aayush Pandey” —"
+    "text": "I am a physics and mathematics student interested in data science, machine learning, and sports analytics.\nThis website includes my professional application materials and a sample data analysis project.\n\n\n\nResume\nCover Letter\nSample Analysis: NBA Win Prediction\n\n\n\n\nMy sample analysis builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.\nThe project includes:\n\ndata cleaning\nexploratory data analysis\nfeature engineering\nrolling team statistics\nmatchup differential features\nmodel comparison\ninterpretation and limitations"
   },
   {
     "objectID": "index.html#materials",
     "href": "index.html#materials",
-    "title": "",
-    "section": "Materials",
-    "text": "Materials\n\nResume\nCover Letter\nSample Analysis: NBA Win Prediction"
+    "title": "Aayush Pandey",
+    "section": "",
+    "text": "Resume\nCover Letter\nSample Analysis: NBA Win Prediction"
   },
   {
     "objectID": "index.html#featured-project",
     "href": "index.html#featured-project",
-    "title": "",
-    "section": "Featured Project",
-    "text": "Featured Project\nMy sample analysis builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.\nThe project includes:\n\ndata cleaning\nexploratory data analysis\nfeature engineering\nrolling team statistics\nmatchup differential features\nmodel comparison\ninterpretation and limitations"
+    "title": "Aayush Pandey",
+    "section": "",
+    "text": "My sample analysis builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.\nThe project includes:\n\ndata cleaning\nexploratory data analysis\nfeature engineering\nrolling team statistics\nmatchup differential features\nmodel comparison\ninterpretation and limitations"
   },
   {
     "objectID": "about.html",
@@ -44,8 +44,8 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "",
+    "title": "Resume",
     "section": "",
-    "text": "Code"
+    "text": "Resume"
   }
 ]
