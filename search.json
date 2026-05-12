@@ -2,16 +2,44 @@
   {
     "objectID": "sample-analysis.html",
     "href": "sample-analysis.html",
-    "title": "",
+    "title": "Sample Analysis: NBA Win Prediction",
     "section": "",
-    "text": "Code"
+    "text": "This project builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.\n\n\nThe goal of this analysis is to estimate whether the home team wins a given NBA game using engineered matchup features.\n\n\n\n\nData cleaning\nExploratory data analysis\nRolling feature engineering\nMatchup differential features\nLogistic Regression\nRidge and Lasso regularization\nRandom Forest\nXGBoost\nROC-AUC evaluation\nTime-based validation\n\n\n\n\nThe tuned Logistic Regression model performed best overall. More complex models such as Random Forest and XGBoost did not outperform it, suggesting that the engineered matchup features captured strong linear predictive structure.\n\n\n\nOpen NBA Sample Analysis Notebook"
+  },
+  {
+    "objectID": "sample-analysis.html#project-overview",
+    "href": "sample-analysis.html#project-overview",
+    "title": "Sample Analysis: NBA Win Prediction",
+    "section": "",
+    "text": "The goal of this analysis is to estimate whether the home team wins a given NBA game using engineered matchup features."
+  },
+  {
+    "objectID": "sample-analysis.html#methods-used",
+    "href": "sample-analysis.html#methods-used",
+    "title": "Sample Analysis: NBA Win Prediction",
+    "section": "",
+    "text": "Data cleaning\nExploratory data analysis\nRolling feature engineering\nMatchup differential features\nLogistic Regression\nRidge and Lasso regularization\nRandom Forest\nXGBoost\nROC-AUC evaluation\nTime-based validation"
+  },
+  {
+    "objectID": "sample-analysis.html#main-finding",
+    "href": "sample-analysis.html#main-finding",
+    "title": "Sample Analysis: NBA Win Prediction",
+    "section": "",
+    "text": "The tuned Logistic Regression model performed best overall. More complex models such as Random Forest and XGBoost did not outperform it, suggesting that the engineered matchup features captured strong linear predictive structure."
+  },
+  {
+    "objectID": "sample-analysis.html#full-notebook",
+    "href": "sample-analysis.html#full-notebook",
+    "title": "Sample Analysis: NBA Win Prediction",
+    "section": "",
+    "text": "Open NBA Sample Analysis Notebook"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Aayush Pandey",
     "section": "",
-    "text": "I am a physics and mathematics student interested in data science, machine learning, and sports analytics.\nThis website includes my professional application materials and a sample data analysis project.\n\n\n\nResume\nCover Letter\nSample Analysis: NBA Win Prediction\n\n\n\n\nMy sample analysis builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.\nThe project includes:\n\ndata cleaning\nexploratory data analysis\nfeature engineering\nrolling team statistics\nmatchup differential features\nmodel comparison\ninterpretation and limitations"
+    "text": "I am a physics and mathematics student interested in data science, machine learning, sports analytics, and quantitative modeling.\nThis website includes my professional application materials and a sample data analysis project.\n\n\n\nResume\nCover Letter\nSample Analysis: NBA Win Prediction\n\n\n\n\nMy sample analysis builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.\nThe project includes data cleaning, exploratory data analysis, feature engineering, rolling team statistics, matchup differential features, model comparison, and interpretation."
   },
   {
     "objectID": "index.html#materials",
@@ -25,7 +53,7 @@
     "href": "index.html#featured-project",
     "title": "Aayush Pandey",
     "section": "",
-    "text": "My sample analysis builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.\nThe project includes:\n\ndata cleaning\nexploratory data analysis\nfeature engineering\nrolling team statistics\nmatchup differential features\nmodel comparison\ninterpretation and limitations"
+    "text": "My sample analysis builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.\nThe project includes data cleaning, exploratory data analysis, feature engineering, rolling team statistics, matchup differential features, model comparison, and interpretation."
   },
   {
     "objectID": "about.html",
@@ -37,9 +65,9 @@
   {
     "objectID": "cover-letter.html",
     "href": "cover-letter.html",
-    "title": "",
+    "title": "Cover Letter",
     "section": "",
-    "text": "Code"
+    "text": "Cover Letter"
   },
   {
     "objectID": "resume.html",
