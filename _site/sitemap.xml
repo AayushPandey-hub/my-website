@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://AayushPandey-hub.github.io/my-website/sample_analysis_nba_final.html</loc>
+    <lastmod>2026-05-12T09:00:47.631Z</lastmod>
+  </url>
+  <url>
     <loc>https://AayushPandey-hub.github.io/my-website/sample-analysis.html</loc>
-    <lastmod>2026-05-12T08:45:57.353Z</lastmod>
+    <lastmod>2026-05-12T09:04:46.477Z</lastmod>
   </url>
   <url>
     <loc>https://AayushPandey-hub.github.io/my-website/index.html</loc>
@@ -19,5 +23,9 @@
   <url>
     <loc>https://AayushPandey-hub.github.io/my-website/resume.html</loc>
     <lastmod>2026-05-12T08:47:30.608Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AayushPandey-hub.github.io/my-website/sample_analysis_nba.html</loc>
+    <lastmod>2026-05-12T09:05:29.430Z</lastmod>
   </url>
 </urlset>
