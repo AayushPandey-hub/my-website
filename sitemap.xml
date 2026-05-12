@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://AayushPandey-hub.github.io/my-website/sample-analysis.html</loc>
+    <lastmod>2026-05-12T05:42:47.915Z</lastmod>
+  </url>
+  <url>
     <loc>https://AayushPandey-hub.github.io/my-website/index.html</loc>
-    <lastmod>2026-04-21T21:24:04.963Z</lastmod>
+    <lastmod>2026-05-12T06:10:56.117Z</lastmod>
   </url>
   <url>
     <loc>https://AayushPandey-hub.github.io/my-website/about.html</loc>
     <lastmod>2026-04-21T21:15:15.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AayushPandey-hub.github.io/my-website/cover-letter.html</loc>
+    <lastmod>2026-05-12T05:42:15.576Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AayushPandey-hub.github.io/my-website/resume.html</loc>
+    <lastmod>2026-05-12T05:41:48.354Z</lastmod>
   </url>
 </urlset>
