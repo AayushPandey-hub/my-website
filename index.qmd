@@ -1,8 +1,29 @@
 ---
-title: "my-website"
-
+title: "Aayush Pandey"
 ---
 
-This is a Quarto website.
+# Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a physics and mathematics student interested in data science, machine learning, and sports analytics.
+
+This website includes my professional application materials and a sample data analysis project.
+
+## Materials
+
+- [Resume](resume.qmd)
+- [Cover Letter](cover-letter.qmd)
+- [Sample Analysis: NBA Win Prediction](sample-analysis.qmd)
+
+## Featured Project
+
+My sample analysis builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.
+
+The project includes:
+
+- data cleaning
+- exploratory data analysis
+- feature engineering
+- rolling team statistics
+- matchup differential features
+- model comparison
+- interpretation and limitations

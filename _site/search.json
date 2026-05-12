@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my-website",
+    "title": "Aayush Pandey",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a physics and mathematics student interested in data science, machine learning, and sports analytics.\nThis website includes my professional application materials and a sample data analysis project.\n\n\n\nResume\nCover Letter\nSample Analysis: NBA Win Prediction\n\n\n\n\nMy sample analysis builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.\nThe project includes:\n\ndata cleaning\nexploratory data analysis\nfeature engineering\nrolling team statistics\nmatchup differential features\nmodel comparison\ninterpretation and limitations"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#materials",
+    "href": "index.html#materials",
+    "title": "Aayush Pandey",
+    "section": "",
+    "text": "Resume\nCover Letter\nSample Analysis: NBA Win Prediction"
+  },
+  {
+    "objectID": "index.html#featured-project",
+    "href": "index.html#featured-project",
+    "title": "Aayush Pandey",
+    "section": "",
+    "text": "My sample analysis builds a machine learning pipeline to predict NBA game outcomes using modern NBA data from 2021–2026.\nThe project includes:\n\ndata cleaning\nexploratory data analysis\nfeature engineering\nrolling team statistics\nmatchup differential features\nmodel comparison\ninterpretation and limitations"
+  },
+  {
+    "objectID": "sample-analysis.html",
+    "href": "sample-analysis.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "cover-letter.html",
+    "href": "cover-letter.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
   }
 ]
